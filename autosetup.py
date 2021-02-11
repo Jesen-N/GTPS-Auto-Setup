@@ -87,5 +87,5 @@ print("""
 [>] Github: http://github.com/Jesen-N
 """)
 ip = input("Put Your IP: ")
-port = input("Port: ")
+port = input("Port (Default 17091): ")
 aku()
