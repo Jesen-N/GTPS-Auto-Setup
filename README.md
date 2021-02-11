@@ -5,3 +5,6 @@ GTPS Auto Setup With Python
 1. Install Pyhton in https://www.python.org/downloads/
 2. python autosetup.py
 3. or you can use the exe file in release (https://github.com/Jesen-N/GTPS-Auto-Setup/releases/tag/0.1)
+
+Put Your Ip
+And Put Port default port is 17091
